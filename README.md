@@ -48,19 +48,19 @@
 
 <h3 align="left">Socials</h3>
 <p align="center">
-  <a href="https://www.github.com/Rafly1818" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Gammaura" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
     </picture>
   </a>
-  <a href="mailto:raflyravsanjani@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; display: inline-block; text-align: center;">
+  <a href="mailto:ardityaa.id@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; display: inline-block; text-align: center;">
     <picture>
       <img src="Assets/gmail.png" width="36" height="36" alt="Gmail" />
     </picture>
   </a>
-  <a href="http://www.instagram.com/flyyr_" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/ardityaa.id" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />

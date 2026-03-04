@@ -75,4 +75,8 @@
 
 <h3 align="left">Stats</h3>
 
-[![Gammaura's GitHub stats](https://github-readme-stats.vercel.app/api?username=gammaura&show_icons=true&theme=dark)](https://github.com/gammaura/github-readme-stats)
+[![Gammaura's GitHub stats](https://github-stats-alpha.vercel.app/api?username=Gammaura&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/Gammaura)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gammaura&theme=dark&background=22272e&border=0000)](https://git.io/streak-stats)
+
+![Pacman contribution graph](https://raw.githubusercontent.com/Gammaura/Gammaura/output/github-contribution-grid-pacman-dark.svg)

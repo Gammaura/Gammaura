@@ -20,17 +20,9 @@
   /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="36" height="36" alt="C++" 
   /></a>
-  <a href="https://www.adobe.com/id_id/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" width="36" height="36" alt="Adobe Illustrator" 
-  /></a>
-  <a href="https://www.adobe.com/id_id/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" width="36" height="36" alt="Adobe Photoshop" 
-  /></a>
-  <a href="hhttps://www.adobe.com/id_id/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Premiere.svg" width="36" height="36" alt="Adobe Premiere" 
-  /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="36" height="36" alt="HTML5" 
   /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" 
-  /></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="36" height="36" alt="Java Script" 
   /></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="36" height="36" alt="React" 
   /></a>
@@ -55,11 +47,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
     </picture>
   </a>
-  <a href="mailto:ardityaa.id@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; display: inline-block; text-align: center;">
-    <picture>
-      <img src="Assets/gmail.png" width="36" height="36" alt="Gmail" />
-    </picture>
-  </a>
   <a href="http://www.instagram.com/ardityaa.id" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -67,17 +54,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" />
     </picture>
   </a>
-</p>
-
-
-
----
-
-<h3 align="left">My GitHub Stats</h3>
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Rafly1818&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafly1818&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafly1818&theme=nord&hide_border=true&background=FFFFFF00">
 </p>
 
 ---

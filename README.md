@@ -64,7 +64,7 @@
 <p align="center">
   <table align="center" border="0" cellspacing="0" cellpadding="15">
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/ardityaadjierosadni"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="48" height="48"/></a><br/><sub><b>LinkedIn</b></sub></td>
+      <td align="center"><a href="https://www.linkedin.com/in/ardityaadjierosandi"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="48" height="48"/></a><br/><sub><b>LinkedIn</b></sub></td>
       <td align="center"><a href="http://www.instagram.com/ardityaa.id"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="48" height="48"/></a><br/><sub><b>Instagram</b></sub></td>
       <td align="center"><a href="mailto:ardityaa.id@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="48" height="48"/></a><br/><sub><b>Email</b></sub></td>
     </tr>

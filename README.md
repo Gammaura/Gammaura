@@ -52,7 +52,6 @@
       <td align="center"><a href="https://unity.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" width="48" height="48"/></a><br/><sub><b>Unity</b></sub></td>
       <td align="center"><a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" width="48" height="48"/></a><br/><sub><b>Canva</b></sub></td>
       <td align="center"><a href="https://www.diagrams.net/"><img src="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/drawlogo.svg" width="48" height="48"/></a><br/><sub><b>Draw.io</b></sub></td>
-      <td align="center"><a href="https://www.navicat.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Antu_navicat.svg" width="48" height="48"/></a><br/><sub><b>Navicat</b></sub></td>
       <td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="48" height="48"/></a><br/><sub><b>Word</b></sub></td>
       <td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48"/></a><br/><sub><b>Excel</b></sub></td>
     </tr>

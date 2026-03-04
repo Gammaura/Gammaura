@@ -16,52 +16,60 @@
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://skillicons.dev/icons?i=c" width="48" title="C"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#"/></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP"><img src="https://skillicons.dev/icons?i=php" width="48" title="PHP"/></a>
-  <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="48" title="Python"/></a>
-  <br/>
-  <sub>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; Python</sub>
+  <table align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width="48" height="48"/><br/><sub><b>C</b></sub></a></td>
+      <td align="center"><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" width="48" height="48"/><br/><sub><b>C#</b></sub></a></td>
+      <td align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="48" height="48"/><br/><sub><b>C++</b></sub></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="48" height="48"/><br/><sub><b>HTML</b></sub></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br/><sub><b>CSS</b></sub></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="48" height="48"/><br/><sub><b>PHP</b></sub></a></td>
+      <td align="center"><a href="https://java.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="48" height="48"/><br/><sub><b>Java</b></sub></a></td>
+      <td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="48" height="48"/><br/><sub><b>Python</b></sub></a></td>
+    </tr>
+  </table>
 </p>
 
 <h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
-  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="48" title="Laravel"/></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="48" title="Streamlit"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" title="Pandas"/></a>
-  <br/>
-  <sub>Laravel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Streamlit &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas</sub>
+  <table align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" width="48" height="48"/><br/><sub><b>Laravel</b></sub></a></td>
+      <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" height="48"/><br/><sub><b>Streamlit</b></sub></a></td>
+      <td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/><br/><sub><b>Pandas</b></sub></a></td>
+    </tr>
+  </table>
 </p>
 
 <h4 align="center">Database & Tools</h4>
 <p align="center">
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/></a>
-  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="48" title="Unity"/></a>
-  <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" width="48" title="Canva"/></a>
-  <a href="https://www.diagrams.net/"><img src="https://img.icons8.com/color/48/000000/drawio.png" width="48" title="Draw.io"/></a>
-  <a href="https://www.navicat.com/"><img src="https://img.icons8.com/color/48/navicat.png" width="48" title="Navicat"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="48" title="Word"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" title="Excel"/></a>
-  <br/>
-  <sub>MySQL &nbsp; VS Code &nbsp; Docker &nbsp; Figma &nbsp; Unity &nbsp; Canva &nbsp; Draw.io &nbsp; Navicat &nbsp; Word &nbsp; Excel</sub>
+  <table align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="48" height="48"/><br/><sub><b>MySQL</b></sub></a></td>
+      <td align="center"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" width="48" height="48"/><br/><sub><b>VS Code</b></sub></a></td>
+      <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="48" height="48"/><br/><sub><b>Docker</b></sub></a></td>
+      <td align="center"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="48" height="48"/><br/><sub><b>Figma</b></sub></a></td>
+      <td align="center"><a href="https://unity.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" width="48" height="48"/><br/><sub><b>Unity</b></sub></a></td>
+      <td align="center"><a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" width="48" height="48"/><br/><sub><b>Canva</b></sub></a></td>
+      <td align="center"><a href="https://www.diagrams.net/"><img src="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/drawlogo.svg" width="48" height="48"/><br/><sub><b>Draw.io</b></sub></a></td>
+      <td align="center"><a href="https://www.navicat.com/"><img src="https://www.iconarchive.com/download/i113938/papirus-team/papirus-apps/navicat.512.png" width="48" height="48"/><br/><sub><b>Navicat</b></sub></a></td>
+      <td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="48" height="48"/><br/><sub><b>Word</b></sub></a></td>
+      <td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48"/><br/><sub><b>Excel</b></sub></a></td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 <h3 align="left">Socials</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ardityaadjierosadni"><img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn"/></a>
-  <a href="http://www.instagram.com/ardityaa.id"><img src="https://skillicons.dev/icons?i=instagram" width="48" title="Instagram"/></a>
-  <a href="mailto:ardityaa.id@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email"/></a>
-  <br/>
-  <sub>LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email</sub>
+  <table align="center" border="0" cellspacing="0" cellpadding="15">
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/ardityaadjierosadni"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="48" height="48"/><br/><sub><b>LinkedIn</b></sub></a></td>
+      <td align="center"><a href="http://www.instagram.com/ardityaa.id"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="48" height="48"/><br/><sub><b>Instagram</b></sub></a></td>
+      <td align="center"><a href="mailto:ardityaa.id@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="48" height="48"/><br/><sub><b>Email</b></sub></a></td>
+    </tr>
+  </table>
 </p>
 
 ---
